@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.exe
+*.o
+*.obj
+*.out
+
+# Ignore IDE/project files
+*.dev
+*.layout
+*.user
+
+# Ignore temporary files
+*.tmp
+*.log
