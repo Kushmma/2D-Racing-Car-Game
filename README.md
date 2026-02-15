@@ -5,9 +5,9 @@ A fast-paced, top-down 2D racing game developed in **C++** using `<graphics.h>` 
 
 ## 📋 Table of Contents
 - [Features](#-features)
-- [Project Structure](#-project-structure)
+- [Project Files](#-project-files)
 - [Getting Started](#-getting-started)
-- [Controls](#-controls)
+- [Controls](#-controls-system)
 - [Score System](#-score-system)
 - [Screenshots](#-screenshots)
 - [Contact](#-contact)
