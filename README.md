@@ -104,5 +104,5 @@ The game tracks wins and scores for both **Single Player** (Player vs Bot) and *
 |---|---|
 | **Name** | Kushma Shrestha |
 | **Email** | arushsthaii@gmail.com |
-| **GitHub** | [@yourusername](https://github.com/Kushmma) |
-| **Instagram** | [@yourhandle](https://instagram.com/kushmma) |
+| **GitHub** | [@Kushmma](https://github.com/Kushmma) |
+
